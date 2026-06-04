@@ -1,2 +1,3 @@
 [Hello]: Hello
 [Hello]: Как ты?
+[Niger]: Хорошо
