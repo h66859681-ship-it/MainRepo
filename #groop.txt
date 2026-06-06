@@ -2,3 +2,4 @@
 [Niger]: Too
 [Yoga]: Hello
 [Hello]: Как вы братаны
+[Hello]: Hello
